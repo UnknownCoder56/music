@@ -1,0 +1,37 @@
+[
+  {
+    "name": "javafx.scene.layout.GridPane",
+    "methods": [
+      {
+        "name": "setAlignment",
+        "parameterTypes": [
+          "javafx.geometry.Pos"
+        ]
+      },
+      {
+        "name": "getAlignment",
+        "parameterTypes": []
+      },
+      {
+        "name": "setHgap",
+        "parameterTypes": [
+          "double"
+        ]
+      },
+      {
+        "name": "getHgap",
+        "parameterTypes": []
+      },
+      {
+        "name": "setVgap",
+        "parameterTypes": [
+          "double"
+        ]
+      },
+      {
+        "name": "getVgap",
+        "parameterTypes": []
+      }
+    ]
+  }
+]
